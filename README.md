@@ -22,6 +22,6 @@ The python files `RWalk.py` and `Random.py` can be run from the command line by 
 
 `<> python RWalk.py`
 
-`<> Random.py`
+`<> python Random.py`
 
 This requires a working `Python` distribution (so that the python executable exists) with the Python package `numpy` and `Matplotlib` also installed.
